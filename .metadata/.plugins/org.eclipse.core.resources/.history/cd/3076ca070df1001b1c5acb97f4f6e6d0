@@ -1,9 +1,0 @@
-package com.boot.ejemplo;
-
-import org.springframework.web.bind.annotation.RestController;
-
-// Esta anotac
-@RestController
-public class SaludoController {
-
-}
