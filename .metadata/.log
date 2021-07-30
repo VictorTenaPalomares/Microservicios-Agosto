@@ -11151,3 +11151,21 @@ Caused by: org.eclipse.swt.SWTException: Widget is disposed
 
 !ENTRY Activator 1 0 2021-07-30 13:50:24.133
 !MESSAGE Has main method computation for project '02_microservicio_mapeado_objetos'
+
+!ENTRY Activator 1 0 2021-07-30 14:07:58.140
+!MESSAGE Has main method computation for project '02_microservicio_mapeado_objetos'
+
+!ENTRY Activator 1 0 2021-07-30 14:07:58.140
+!MESSAGE Has main method computation for project 'microservicio_ejemplo'
+
+!ENTRY Activator 1 0 2021-07-30 14:07:58.141
+!MESSAGE Has main method computation for project '03_microservicio_mapeado_objetos_CRUD'
+
+!ENTRY Activator 1 0 2021-07-30 14:07:58.191
+!MESSAGE Has main method computation for project 'microservicio_ejemplo'
+
+!ENTRY Activator 1 0 2021-07-30 14:07:58.192
+!MESSAGE Has main method computation for project '03_microservicio_mapeado_objetos_CRUD'
+
+!ENTRY Activator 1 0 2021-07-30 14:07:58.193
+!MESSAGE Has main method computation for project '02_microservicio_mapeado_objetos'

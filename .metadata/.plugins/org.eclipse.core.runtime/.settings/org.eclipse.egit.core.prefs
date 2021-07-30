@@ -1,4 +1,7 @@
-GitRepositoriesView.GitDirectories=C\:\\Users\\0018118\\git\\Ejercicio-trabajo-en-equipo\\.git;
-GitRepositoriesView.GitDirectories.relative=C\:\\Users\\0018118\\git\\Ejercicio-trabajo-en-equipo\\.git;
+GitRepositoriesView.GitDirectories=C\:\\Users\\0018118\\git\\Ejercicio-trabajo-en-equipo\\.git;C\:\\Users\\0018118\\Desktop\\Microservicios-Agosto\\.git;
+GitRepositoriesView.GitDirectories.relative=C\:\\Users\\0018118\\git\\Ejercicio-trabajo-en-equipo\\.git;.git;
+RepositorySearchDialogDeepSearch=false
+RepositorySearchDialogSearchPath=C\:\\Users\\0018118\\Desktop\\Microservicios-Agosto
+RepositorySearchDialogSkipHidden=true
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
