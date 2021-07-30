@@ -29,7 +29,7 @@ public class CursosController {
 		cursos = new ArrayList<>();
 		cursos.add(new Curso("Spring", "tarde", 25));
 		cursos.add(new Curso("Spring boot", "tarde", 125));
-		cursos.add(new Curso("Phyton", "tarde", 225));
+		cursos.add(new Curso("Python", "tarde", 225));
 		cursos.add(new Curso("Java EE", "tarde", 425));
 		cursos.add(new Curso("Java Básico", "tarde", 525));
 	}
