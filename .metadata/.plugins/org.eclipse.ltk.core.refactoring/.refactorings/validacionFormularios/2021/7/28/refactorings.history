@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;validacionFormularios.configuracion&apos; to &apos;configuracion&apos;&#x0D;&#x0A;- Original project: &apos;validacionFormularios&apos;&#x0D;&#x0A;- Original element: &apos;validacionFormularios/src/main/java/validacionFormularios.configuracion&apos;&#x0D;&#x0A;- Renamed element: &apos;validacionFormularios/src/main/java/configuracion&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;validacionFormularios.configuracion&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;validacionFormularios.configuracion" name="configuracion" qualified="false" references="true" stamp="1626167078705" textual="false" version="1.0"/>
+</session>

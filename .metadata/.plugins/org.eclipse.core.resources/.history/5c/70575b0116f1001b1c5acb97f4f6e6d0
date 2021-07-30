@@ -1,0 +1,5 @@
+package com.boot.mapeando.model;
+/*Esta clase es una clase POJO, contendrá l*/
+public class Curso {
+
+}

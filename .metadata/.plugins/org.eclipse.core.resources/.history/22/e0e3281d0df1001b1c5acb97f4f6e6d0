@@ -1,0 +1,10 @@
+package com.boot.ejemplo;
+
+import org.springframework.web.bind.annotation.RestController;
+
+// Esta anotación convierte esta clase en controlador.
+
+@RestController
+public class SaludoController {
+
+}

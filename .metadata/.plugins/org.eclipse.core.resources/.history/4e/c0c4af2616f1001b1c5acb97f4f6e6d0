@@ -1,0 +1,12 @@
+package com.boot.mapeando.model;
+
+
+/*Esta clase es una clase POJO, contendrá la información (beans)que el servicio
+ * va a procesar a traves del controlador*/
+
+
+public class Curso {
+	
+	private
+
+}

@@ -1,0 +1,19 @@
+INDEX VERSION 1.131
+C:\Users\0018118\Desktop\Eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\266032978.index
+\holamundo\src\main\java
+C:\Users\0018118\Desktop\Eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\221819887.index
+\Spring_MVC_Pildoras1\src\main\java
+C:\Users\0018118\Desktop\Eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\608787804.index
+\proyecto\src\main\java
+C:\Users\0018118\Desktop\Eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\810851732.index
+\proyecto_MVC\src\main\resources
+C:\Users\0018118\Desktop\Eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4143523967.index
+\validacionFormularios\src\main\java
+C:\Users\0018118\Desktop\Eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\719402748.index
+\proyecto\src\main\java
+C:\Users\0018118\Desktop\Eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\351229029.index
+\holamundo\src\main\java
+C:\Users\0018118\Desktop\Eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2329475801.index
+\holauniverso\src\main\java
+C:\Users\0018118\Desktop\Eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3399172954.index
+\proyecto_MVC\src\main\resources

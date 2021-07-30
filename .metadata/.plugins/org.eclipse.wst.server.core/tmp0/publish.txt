@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Fri Jul 16 09:31:48 CEST 2021
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\0018118\\Desktop\\Eclipse\\Spring_MVC_Pildoras1\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-5.2.16.RELEASE.jar=WEB-INF/lib/spring-web-5.2.16.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\0018118\\Desktop\\Eclipse\\Spring_MVC_Pildoras1\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-5.2.5.RELEASE.jar=WEB-INF/lib/spring-web-5.2.5.RELEASE.jar

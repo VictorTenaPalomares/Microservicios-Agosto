@@ -1,0 +1,32 @@
+package controllers;
+
+import java.awt.List;
+
+import javax.annotation.PostConstruct;
+
+import org.springframework.http.MediaType;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import model.Curso;
+
+@RestController
+public class CursosController {
+
+	private List<Curso> cursos;
+	@PostConstruct // significa que este método se ejecuta después de que construya
+	public void init() {		
+		
+		cursos=new ArrayList<>();
+		
+	}
+
+	/*
+	 * En este método respondemos a la petición curso con un objeto en formato JSON
+	 */
+	@GetMapping(value = "curso", produces = MediaType.APPLICATION_JSON_VALUE)
+	public Curso getCurso() {
+		return new Curso("Java", "mañana", 100);
+	}
+
+}

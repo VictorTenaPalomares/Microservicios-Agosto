@@ -1,0 +1,21 @@
+package com.boot.ejemplo;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+// Esta anotación convierte esta clase en controlador.
+// Quiere decir que recoge y procesa las peticiones que se realizan al servicio
+@RestController
+public class SaludoController {
+
+	// Dentro de la clase implementamos métodos que procesan la petición
+	// Para que sea posible hay que anotar con @GetMapping, que en este caso
+	// asocia un método a una petición de tipo GET
+	@GetMapping
+	public String getSaludo	() {
+		
+		return "Este es el primer microservicio que desarrollo";
+		
+	}
+	
+}

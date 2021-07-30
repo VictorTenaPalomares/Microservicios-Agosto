@@ -1,0 +1,5 @@
+package com.boot.ejemplo;
+
+public class SaludoController {
+
+}
