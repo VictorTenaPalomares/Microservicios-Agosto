@@ -586,3 +586,308 @@ java.lang.Error: SWT Resource was not properly disposed
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 08:57:23.777
 !MESSAGE executing callback sts4.classpath.qXsxCSqV SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 09:01:03.823
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.qXsxCSqV
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 09:01:03.826
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.qXsxCSqV
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 09:01:03.829
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 09:01:03.832
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.qXsxCSqV => OK
+
+!ENTRY org.eclipse.ui 2 2 2021-07-31 09:01:04.261
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2021-07-31 15:18:01.374 -----------------------------------------------
+eclipse.buildId=4.20.0.I20210611-1600
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2021-07-31 15:18:06.998
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-31 15:18:06.999
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@27ada0e8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@62fa4a88,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 15:18:14.370
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 15:18:14.371
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@6c1cf68d[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=971)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 15:18:14.375
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 15:18:14.467
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.eclipse.ui.navigator 2 0 2021-07-31 15:18:16.302
+!MESSAGE Can't find Navigator Content Descriptor with id: org.eclipse.jst.servlet.ui.EnhancedJavaRendering
+
+!ENTRY org.eclipse.ui.navigator 2 0 2021-07-31 15:18:16.303
+!MESSAGE Can't find Navigator Content Descriptor with id: org.eclipse.jst.servlet.ui.EnhancedJavaRendering
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-31 15:18:16.351
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\0018118'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 15:18:18.444
+!MESSAGE Boot LS startup time from start to initialized: 4047ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 15:18:18.850
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.CPjBrAhvisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 15:18:18.854
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 15:18:18.857
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 15:18:18.859
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 15:18:18.859
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 15:18:18.860
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.CPjBrAhv => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 15:18:18.895
+!MESSAGE classpath=107 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 15:18:18.903
+!MESSAGE buffering callback sts4.classpath.CPjBrAhv 04_microservicio_contactos_Victor false 107
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 15:18:18.904
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 15:18:18.915
+!MESSAGE classpath=81 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 15:18:18.921
+!MESSAGE buffering callback sts4.classpath.CPjBrAhv 02_microservicio_mapeado_objetos false 81
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 15:18:18.922
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 15:18:18.956
+!MESSAGE classpath=86 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 15:18:18.963
+!MESSAGE buffering callback sts4.classpath.CPjBrAhv 03_microservicio_cursos_crud false 86
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 15:18:18.964
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 15:18:18.973
+!MESSAGE classpath=81 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 15:18:18.980
+!MESSAGE buffering callback sts4.classpath.CPjBrAhv 03_microservicio_mapeado_objetos_CRUD false 81
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 15:18:18.981
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 15:18:18.993
+!MESSAGE classpath=81 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 15:18:18.999
+!MESSAGE buffering callback sts4.classpath.CPjBrAhv microservicio_ejemplo false 81
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 15:18:19.000
+!MESSAGE executing callback sts4.classpath.CPjBrAhv 5 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 15:18:19.898
+!MESSAGE executing callback sts4.classpath.CPjBrAhv SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-31 15:34:01.516
+!MESSAGE Has main method computation for project '02_microservicio_mapeado_objetos'
+
+!ENTRY Activator 1 0 2021-07-31 15:34:01.519
+!MESSAGE Has main method computation for project '03_microservicio_mapeado_objetos_CRUD'
+
+!ENTRY Activator 1 0 2021-07-31 15:34:01.522
+!MESSAGE Has main method computation for project '03_microservicio_cursos_crud'
+
+!ENTRY Activator 1 0 2021-07-31 15:34:01.522
+!MESSAGE Has main method computation for project 'microservicio_ejemplo'
+
+!ENTRY Activator 1 0 2021-07-31 15:34:01.523
+!MESSAGE Has main method computation for project '04_microservicio_contactos_Victor'
+
+!ENTRY Activator 1 0 2021-07-31 15:34:02.003
+!MESSAGE Has main method computation for project 'microservicio_ejemplo'
+
+!ENTRY Activator 1 0 2021-07-31 15:34:02.005
+!MESSAGE Has main method computation for project '03_microservicio_mapeado_objetos_CRUD'
+
+!ENTRY Activator 1 0 2021-07-31 15:34:02.016
+!MESSAGE Has main method computation for project '02_microservicio_mapeado_objetos'
+
+!ENTRY Activator 1 0 2021-07-31 15:34:02.022
+!MESSAGE Has main method computation for project '03_microservicio_cursos_crud'
+
+!ENTRY Activator 1 0 2021-07-31 15:34:02.044
+!MESSAGE Has main method computation for project '04_microservicio_contactos_Victor'
+
+!ENTRY org.eclipse.ui 2 2 2021-07-31 15:35:48.491
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2021-07-31 15:36:27.745
+!MESSAGE Has main method computation for project '02_microservicio_mapeado_objetos'
+
+!ENTRY Activator 1 0 2021-07-31 15:36:27.745
+!MESSAGE Has main method computation for project '03_microservicio_mapeado_objetos_CRUD'
+
+!ENTRY Activator 1 0 2021-07-31 15:36:27.746
+!MESSAGE Has main method computation for project 'microservicio_ejemplo'
+
+!ENTRY Activator 1 0 2021-07-31 15:36:27.748
+!MESSAGE Has main method computation for project '04_microservicio_contactos_Victor'
+
+!ENTRY Activator 1 0 2021-07-31 15:36:27.750
+!MESSAGE Has main method computation for project '03_microservicio_cursos_crud'
+
+!ENTRY Activator 1 0 2021-07-31 15:36:27.934
+!MESSAGE Has main method computation for project 'microservicio_ejemplo'
+
+!ENTRY Activator 1 0 2021-07-31 15:36:27.937
+!MESSAGE Has main method computation for project '04_microservicio_contactos_Victor'
+
+!ENTRY Activator 1 0 2021-07-31 15:36:27.937
+!MESSAGE Has main method computation for project '03_microservicio_mapeado_objetos_CRUD'
+
+!ENTRY Activator 1 0 2021-07-31 15:36:27.938
+!MESSAGE Has main method computation for project '03_microservicio_cursos_crud'
+
+!ENTRY Activator 1 0 2021-07-31 15:36:27.939
+!MESSAGE Has main method computation for project '02_microservicio_mapeado_objetos'
+
+!ENTRY Activator 1 0 2021-07-31 15:36:29.061
+!MESSAGE Has main method computation for project 'microservicio_ejemplo'
+
+!ENTRY Activator 1 0 2021-07-31 15:36:29.062
+!MESSAGE Has main method computation for project '03_microservicio_mapeado_objetos_CRUD'
+
+!ENTRY Activator 1 0 2021-07-31 15:36:29.063
+!MESSAGE Has main method computation for project '03_microservicio_cursos_crud'
+
+!ENTRY Activator 1 0 2021-07-31 15:36:29.063
+!MESSAGE Has main method computation for project '02_microservicio_mapeado_objetos'
+
+!ENTRY Activator 1 0 2021-07-31 15:36:29.064
+!MESSAGE Has main method computation for project '04_microservicio_contactos_Victor'
+
+!ENTRY Activator 1 0 2021-07-31 15:40:09.217
+!MESSAGE Has main method computation for project '02_microservicio_mapeado_objetos'
+
+!ENTRY Activator 1 0 2021-07-31 15:40:09.218
+!MESSAGE Has main method computation for project 'microservicio_ejemplo'
+
+!ENTRY Activator 1 0 2021-07-31 15:40:09.222
+!MESSAGE Has main method computation for project '03_microservicio_cursos_crud'
+
+!ENTRY Activator 1 0 2021-07-31 15:40:09.223
+!MESSAGE Has main method computation for project '03_microservicio_mapeado_objetos_CRUD'
+
+!ENTRY Activator 1 0 2021-07-31 15:40:09.223
+!MESSAGE Has main method computation for project '04_microservicio_contactos_Victor'
+
+!ENTRY Activator 1 0 2021-07-31 15:40:09.283
+!MESSAGE Has main method computation for project 'microservicio_ejemplo'
+
+!ENTRY Activator 1 0 2021-07-31 15:40:09.283
+!MESSAGE Has main method computation for project '03_microservicio_mapeado_objetos_CRUD'
+
+!ENTRY Activator 1 0 2021-07-31 15:40:09.290
+!MESSAGE Has main method computation for project '02_microservicio_mapeado_objetos'
+
+!ENTRY Activator 1 0 2021-07-31 15:40:09.291
+!MESSAGE Has main method computation for project '04_microservicio_contactos_Victor'
+
+!ENTRY Activator 1 0 2021-07-31 15:40:09.332
+!MESSAGE Has main method computation for project '03_microservicio_cursos_crud'
+
+!ENTRY Activator 1 0 2021-07-31 15:40:10.418
+!MESSAGE Has main method computation for project 'microservicio_ejemplo'
+
+!ENTRY Activator 1 0 2021-07-31 15:40:10.419
+!MESSAGE Has main method computation for project '04_microservicio_contactos_Victor'
+
+!ENTRY Activator 1 0 2021-07-31 15:40:10.420
+!MESSAGE Has main method computation for project '03_microservicio_mapeado_objetos_CRUD'
+
+!ENTRY Activator 1 0 2021-07-31 15:40:10.420
+!MESSAGE Has main method computation for project '03_microservicio_cursos_crud'
+
+!ENTRY Activator 1 0 2021-07-31 15:40:10.421
+!MESSAGE Has main method computation for project '02_microservicio_mapeado_objetos'
+
+!ENTRY Activator 1 0 2021-07-31 16:17:18.172
+!MESSAGE Has main method computation for project '02_microservicio_mapeado_objetos'
+
+!ENTRY Activator 1 0 2021-07-31 16:17:18.173
+!MESSAGE Has main method computation for project '03_microservicio_cursos_crud'
+
+!ENTRY Activator 1 0 2021-07-31 16:17:18.174
+!MESSAGE Has main method computation for project 'microservicio_ejemplo'
+
+!ENTRY Activator 1 0 2021-07-31 16:17:18.174
+!MESSAGE Has main method computation for project '03_microservicio_mapeado_objetos_CRUD'
+
+!ENTRY Activator 1 0 2021-07-31 16:17:18.175
+!MESSAGE Has main method computation for project '04_microservicio_contactos_Victor'
+
+!ENTRY Activator 1 0 2021-07-31 16:17:18.741
+!MESSAGE Has main method computation for project '03_microservicio_cursos_crud'
+
+!ENTRY Activator 1 0 2021-07-31 16:17:18.743
+!MESSAGE Has main method computation for project '02_microservicio_mapeado_objetos'
+
+!ENTRY Activator 1 0 2021-07-31 16:17:18.744
+!MESSAGE Has main method computation for project '04_microservicio_contactos_Victor'
+
+!ENTRY Activator 1 0 2021-07-31 16:17:18.745
+!MESSAGE Has main method computation for project 'microservicio_ejemplo'
+
+!ENTRY Activator 1 0 2021-07-31 16:17:18.747
+!MESSAGE Has main method computation for project '03_microservicio_mapeado_objetos_CRUD'
+
+!ENTRY Activator 1 0 2021-07-31 16:17:18.823
+!MESSAGE Has main method computation for project '02_microservicio_mapeado_objetos'
+
+!ENTRY Activator 1 0 2021-07-31 16:17:18.824
+!MESSAGE Has main method computation for project '04_microservicio_contactos_Victor'
+
+!ENTRY Activator 1 0 2021-07-31 16:17:18.825
+!MESSAGE Has main method computation for project '03_microservicio_cursos_crud'
+
+!ENTRY Activator 1 0 2021-07-31 16:17:18.826
+!MESSAGE Has main method computation for project '03_microservicio_mapeado_objetos_CRUD'
+
+!ENTRY Activator 1 0 2021-07-31 16:17:18.846
+!MESSAGE Has main method computation for project 'microservicio_ejemplo'
