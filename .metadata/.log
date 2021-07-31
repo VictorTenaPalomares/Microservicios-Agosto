@@ -505,3 +505,84 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 08:57:21.442
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 08:57:21.442
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@4c6bf262[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=971)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 08:57:21.444
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 08:57:21.473
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 08:57:23.300
+!MESSAGE Boot LS startup time from start to initialized: 1848ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 08:57:23.416
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.qXsxCSqVisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 08:57:23.421
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 08:57:23.423
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 08:57:23.423
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 08:57:23.424
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 08:57:23.424
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.qXsxCSqV => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 08:57:23.434
+!MESSAGE classpath=107 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 08:57:23.440
+!MESSAGE buffering callback sts4.classpath.qXsxCSqV 04_microservicio_contactos_Victor false 107
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 08:57:23.441
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 08:57:23.446
+!MESSAGE classpath=81 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 08:57:23.449
+!MESSAGE buffering callback sts4.classpath.qXsxCSqV 02_microservicio_mapeado_objetos false 81
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 08:57:23.450
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 08:57:23.454
+!MESSAGE classpath=86 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 08:57:23.458
+!MESSAGE buffering callback sts4.classpath.qXsxCSqV 03_microservicio_cursos_crud false 86
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 08:57:23.458
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 08:57:23.462
+!MESSAGE classpath=81 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 08:57:23.465
+!MESSAGE buffering callback sts4.classpath.qXsxCSqV 03_microservicio_mapeado_objetos_CRUD false 81
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 08:57:23.466
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 08:57:23.470
+!MESSAGE classpath=81 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 08:57:23.473
+!MESSAGE buffering callback sts4.classpath.qXsxCSqV microservicio_ejemplo false 81
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 08:57:23.474
+!MESSAGE executing callback sts4.classpath.qXsxCSqV 5 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-31 08:57:23.777
+!MESSAGE executing callback sts4.classpath.qXsxCSqV SUCCESS [done]
