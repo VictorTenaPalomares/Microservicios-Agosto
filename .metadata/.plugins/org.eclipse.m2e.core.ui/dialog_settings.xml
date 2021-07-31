@@ -2,7 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
-			<item value="C:\Users\0018118\Downloads\03_microservicio_cursos_crud"/>
+			<item value="C:\Users\0018118\Desktop\Microservicios-Agosto\03_microservicio_mapeado_objetos_CRUD"/>
+			<item value="C:\Users\0018118\Desktop\Microservicios-Agosto"/>
 			<item value="C:\Users\0018118\Desktop\VS_Code\hipermercado"/>
 			<item value="C:\Users\0018118\Desktop\demo2"/>
 			<item value="C:\Users\0018118\Desktop\Eclipse\demo"/>
@@ -16,7 +17,6 @@
 			<item value="C:\Users\0018118\Desktop\Eclipse\proyecto_spring_boot_con_prueba_unitaria"/>
 			<item value="C:\Users\0018118\Desktop\Eclipse\Springboot-helloworld"/>
 			<item value="C:\Users\0018118\Downloads\ejemplo"/>
-			<item value="C:\Users\0018118\Desktop\Eclipse\cursopildoras"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="1"/>
