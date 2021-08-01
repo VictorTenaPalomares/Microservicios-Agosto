@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\0018118\Desktop\Microservicios-Agosto\04_microservicio_contactos"/>
 			<item value="C:\Users\0018118\Downloads\04_microservicio_contactos"/>
 			<item value="C:\Users\0018118\Desktop\Microservicios-Agosto"/>
 			<item value="C:\Users\0018118\Desktop\VS_Code\hipermercado"/>
@@ -16,7 +17,6 @@
 			<item value="C:\Users\0018118\Desktop\Eclipse\gs-spring-boot-main"/>
 			<item value="C:\Users\0018118\Desktop\Eclipse\proyecto_spring_boot_con_prueba_unitaria"/>
 			<item value="C:\Users\0018118\Desktop\Eclipse\Springboot-helloworld"/>
-			<item value="C:\Users\0018118\Downloads\ejemplo"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="1"/>
