@@ -51,7 +51,6 @@ class ApplicationTests {
 		try {
 			mock.perform(delete("/curso/Spring")).andDo(print());
 		} catch (Exception e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}
