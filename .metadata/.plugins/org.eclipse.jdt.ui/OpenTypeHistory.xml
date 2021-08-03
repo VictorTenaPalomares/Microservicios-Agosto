@@ -3,4 +3,5 @@
     <typeInfo handle="=04_microservicio_contactos_Victor/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;dao{AgendaDao.java[AgendaDao" modifiers="513" timestamp="1627793859472"/>
     <typeInfo handle="=04_microservicio_contactos_Victor/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;service{AgendaService.java[AgendaService" modifiers="513" timestamp="1627794610723"/>
     <typeInfo handle="=04_microservicio_contactos_Victor/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;dao{AgendaJpaSpring.java[AgendaJpaSpring" modifiers="513" timestamp="1627792251887"/>
+    <typeInfo handle="=06_microservicio_cliente_paises_Victor/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;service{PaisesService.java[PaisesService" modifiers="513" timestamp="1627881575596"/>
 </typeInfoHistroy>
