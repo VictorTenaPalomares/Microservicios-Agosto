@@ -2,6 +2,9 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\0018118\Desktop\Microservicios-Agosto\21_servidor_zuul_config"/>
+			<item value="C:\Users\0018118\Desktop\Microservicios-Agosto\17_microservicio_hoteles_config"/>
+			<item value="C:\Users\0018118\Desktop\Microservicios-Agosto"/>
 			<item value="C:\Users\0018118\Desktop\Microservicios-Agosto\15_servidor_gateway"/>
 			<item value="C:\Users\0018118\Desktop\Microservicios-Agosto\15_servidor_zuul"/>
 			<item value="C:\Users\0018118\Desktop\Microservicios-Agosto\14_cliente_viajes"/>
@@ -12,11 +15,8 @@
 			<item value="C:\Users\0018118\Desktop\Microservicios-Agosto\05_microservicio_cliente_contactos"/>
 			<item value="C:\Users\0018118\Desktop\Microservicios-Agosto\04_microservicio_contactos"/>
 			<item value="C:\Users\0018118\Downloads\04_microservicio_contactos"/>
-			<item value="C:\Users\0018118\Desktop\Microservicios-Agosto"/>
 			<item value="C:\Users\0018118\Desktop\VS_Code\hipermercado"/>
 			<item value="C:\Users\0018118\Desktop\demo2"/>
-			<item value="C:\Users\0018118\Desktop\Eclipse\demo"/>
-			<item value="C:\Users\0018118\Desktop\Eclipse\gs-maven-main"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="1"/>

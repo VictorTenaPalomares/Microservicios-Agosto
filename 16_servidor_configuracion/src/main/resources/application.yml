@@ -1,0 +1,4 @@
+server:
+  port: 8888
+spring:  cloud:    config:      server:        git:   #direccion del repositorio github que alberga toda la configuración de los microservicios que van a trabajar juntos          uri: https://github.com/VictorTenaPalomares/configuracion_microservicios_agosto
+        default-label: main   # para repositorios creados a partir de 2021
