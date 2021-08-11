@@ -2,6 +2,12 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\0018118\Desktop\Microservicios-Agosto\15_servidor_gateway"/>
+			<item value="C:\Users\0018118\Desktop\Microservicios-Agosto\15_servidor_zuul"/>
+			<item value="C:\Users\0018118\Desktop\Microservicios-Agosto\14_cliente_viajes"/>
+			<item value="C:\Users\0018118\Desktop\Microservicios-Agosto\13_microservicio_reservas"/>
+			<item value="C:\Users\0018118\Desktop\Microservicios-Agosto\12_microservicio_vuelos"/>
+			<item value="C:\Users\0018118\Desktop\Microservicios-Agosto\11_microservicio_hoteles"/>
 			<item value="C:\Users\0018118\Desktop\Microservicios-Agosto\07_microservicio_contactos_control_errores"/>
 			<item value="C:\Users\0018118\Desktop\Microservicios-Agosto\05_microservicio_cliente_contactos"/>
 			<item value="C:\Users\0018118\Desktop\Microservicios-Agosto\04_microservicio_contactos"/>
@@ -11,12 +17,6 @@
 			<item value="C:\Users\0018118\Desktop\demo2"/>
 			<item value="C:\Users\0018118\Desktop\Eclipse\demo"/>
 			<item value="C:\Users\0018118\Desktop\Eclipse\gs-maven-main"/>
-			<item value="C:\Users\0018118\Desktop\Eclipse\spring_annotations"/>
-			<item value="C:\Users\0018118\Desktop\Eclipse\gs-producing-web-service-main"/>
-			<item value="C:\Users\0018118\Desktop\Eclipse\gs-testing-web-main"/>
-			<item value="C:\Users\0018118\Desktop\Eclipse\gs-rest-service-main"/>
-			<item value="C:\Users\0018118\Desktop\Eclipse\gs-multi-module-main"/>
-			<item value="C:\Users\0018118\Desktop\Eclipse\gs-spring-boot-main"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="1"/>

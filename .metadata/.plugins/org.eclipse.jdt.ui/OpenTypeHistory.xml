@@ -4,4 +4,10 @@
     <typeInfo handle="=04_microservicio_contactos_Victor/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;service{AgendaService.java[AgendaService" modifiers="513" timestamp="1627794610723"/>
     <typeInfo handle="=04_microservicio_contactos_Victor/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;dao{AgendaJpaSpring.java[AgendaJpaSpring" modifiers="513" timestamp="1627792251887"/>
     <typeInfo handle="=06_microservicio_cliente_paises_Victor/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;service{PaisesService.java[PaisesService" modifiers="513" timestamp="1627881575596"/>
+    <typeInfo handle="=11_microservicio_hoteles_Victor/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;dao{HotelesJpaSpring.java[HotelesJpaSpring" modifiers="513" timestamp="1627994501439"/>
+    <typeInfo handle="=11_microservicio_hoteles_Victor/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;dao{HotelesDao.java[HotelesDao" modifiers="513" timestamp="1627994849629"/>
+    <typeInfo handle="=11_microservicio_hoteles_Victor/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;service{ServiceHoteles.java[ServiceHoteles" modifiers="513" timestamp="1628072282713"/>
+    <typeInfo handle="=12_microservicios_vuelos_Victor/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;service{VuelosService.java[VuelosService" modifiers="513" timestamp="1628079219792"/>
+    <typeInfo handle="=13_microservicios_reservas_Victor/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;dao{ReservasDao.java[ReservasDao" modifiers="513" timestamp="1628088492463"/>
+    <typeInfo handle="=13_microservicios_reservas_Victor/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;service{ReservasService.java[ReservasService" modifiers="513" timestamp="1628089437834"/>
 </typeInfoHistroy>
